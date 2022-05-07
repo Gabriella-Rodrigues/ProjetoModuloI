@@ -4,12 +4,18 @@ body {
 .introducao {
     text-align: center;
     color: #84E0A2;
-    padding: 3%;
+    padding-top: 3%;
     padding-left: 5%;
     padding-right: 5%;
     font-family: 'Courier Prime', monospace;
     background-color: rgba(0, 0, 0, 0.062);
     font-size: 18px;
+}
+.personagens {
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color:#060910f1;
+    border-radius: 7%;
 }
 .personagens img {
     display: flex;
@@ -17,5 +23,112 @@ body {
     max-height:120px;
     width: auto;
     height: auto;
+}
+.brenda {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#pers1 {
+    display: flex;
+    max-width:600px;
+    max-height:200px;
+    text-align:justify;
+    color: #84E0A2;
+    padding: 3%;
     padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 16px;
+    align-items:center;
+   }
+#botaop1 {
+    text-align:justify;
+    color: #84E0A2;
+    padding: 1%;
+    font-family: 'Courier Prime', monospace;
+    background-color: rgba(0, 0, 0, 0.062);
+    font-size: 16px;
+    align-items:center;
+    box-sizing: content-box;
+    border: 2px solid #84E0A2;
+    border-radius: 30%;
+}
+.marcos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#pers2 {
+    display: flex;
+    max-width:600px;
+    max-height:200px;
+    text-align:justify;
+    color: #84E0A2;
+    padding: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 16px;
+    align-items:center
+}
+#botaop2 {
+    text-align:justify;
+    color: #84E0A2;
+    padding: 1%;
+    font-family: 'Courier Prime', monospace;
+    background-color: rgba(0, 0, 0, 0.062);
+    font-size: 16px;
+    align-items:center;
+    box-sizing: content-box;
+    border: 2px solid #84E0A2;
+    border-radius: 30%;
+}
+.vinicius {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#pers3 {
+    display: flex;
+    max-width:600px;
+    max-height:200px;
+    text-align:justify;
+    color: #84E0A2;
+    padding: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 16px;
+    align-items:center
+}
+#botaop3 {
+    text-align:justify;
+    color: #84E0A2;
+    padding: 1%;
+    font-family: 'Courier Prime', monospace;
+    background-color: rgba(0, 0, 0, 0.062);
+    font-size: 16px;
+    align-items:center;
+    box-sizing: content-box;
+    border: 2px solid #84E0A2;
+    border-radius: 30%;
+}
+#rodape {
+    text-align: center;
+    color: #84E0A2;
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 14px;
 }
