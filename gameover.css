@@ -1,0 +1,49 @@
+body {
+    background-image: url("gobakg.jpg");
+}
+.textos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#textogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    color:#84E0A2;
+    font-family: 'Courier Prime', monospace;
+    background-color: #0d0d0d48;
+    font-size: 86px;
+    font-style: bold;
+}
+#botaoinicio {
+    display: flex;
+    text-align:center;
+    justify-content: center;
+    color: #84E0A2;
+    padding: 1%;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Courier Prime', monospace;
+    background-color: #0d0d0db7;
+    font-size: 22px;
+    align-items:center;
+    box-sizing: content-box;
+    border: 2px solid #84E0A2;
+    border-radius: 20%;
+    max-width: 100px;
+}
+#rodape {
+    text-align: center;
+    color: #84E0A2;
+    padding-top: 12%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 1%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 14px;
+}
