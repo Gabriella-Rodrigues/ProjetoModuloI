@@ -37,6 +37,9 @@ body {
     border-radius: 20%;
     max-width: 100px;
 }
+#botaoinicio:hover{
+    text-transform: uppercase;
+}
 #rodape {
     text-align: center;
     color: #84E0A2;

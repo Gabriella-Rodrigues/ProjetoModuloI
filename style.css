@@ -57,6 +57,9 @@ body {
     border: 2px solid #84E0A2;
     border-radius: 30%;
 }
+#botaop1:hover {
+    text-transform: uppercase;
+}
 .marcos {
     display: flex;
     flex-direction: row;
@@ -90,6 +93,9 @@ body {
     border: 2px solid #84E0A2;
     border-radius: 30%;
 }
+#botaop2:hover {
+    text-transform: uppercase;
+}
 .vinicius {
     display: flex;
     flex-direction: row;
@@ -122,6 +128,9 @@ body {
     box-sizing: content-box;
     border: 2px solid #84E0A2;
     border-radius: 30%;
+}
+#botaop3:hover {
+    text-transform: uppercase;
 }
 #rodape {
     text-align: center;
