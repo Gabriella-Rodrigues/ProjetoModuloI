@@ -23,7 +23,7 @@ Detetive: o jogo
 - https://github.com/Gabriella-Rodrigues/ProjetoModuloI.git
 
 ## 📍 Para acessar a página do jogo é só clicar no link:
-- 
+- https://gabriella-rodrigues.github.io/ProjetoModuloI/
 
 ## Autores 💡
 - Alexia Calmon
