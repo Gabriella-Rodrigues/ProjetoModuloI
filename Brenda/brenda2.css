@@ -1,0 +1,60 @@
+body {
+    background-image: url("../background.jpg");
+}
+.imagemBrenda img {
+    display: flex;
+    max-width:200px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+}
+.fase2Brenda {
+    text-align: center;
+    color: #84E0A2;
+    padding: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 3%;
+    margin-left: 18%;
+    margin-right: 18%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 24px;
+    background-color: #060910f1;
+    border-radius: 3%;
+}
+#botaop1 {
+    display: flex;
+    text-align:center;
+    justify-content: center;
+    color: #84E0A2;
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    font-family: 'Courier Prime', monospace;
+    background-color: #0d0d0db7;
+    font-size: 28px;
+    align-items:center;
+    box-sizing: content-box;
+    border: 2px solid #84E0A2;
+    border-radius: 20%;
+    max-width: 125px;
+}
+#botaop1:hover{
+    text-transform: uppercase;
+}
+#rodape {
+    text-align: center;
+    color: #84E0A2;
+    margin-bottom: 2%;
+    margin-top: 7%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Courier Prime', monospace;
+    font-size: 14px;
+    background-color: rgba(0, 0, 0, 0.089);
+}
